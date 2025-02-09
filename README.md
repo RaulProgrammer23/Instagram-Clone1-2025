@@ -2,6 +2,9 @@
 
 Este proyecto es un clon de Instagram desarrollado con el stack MERN (MongoDB, Express, React y Node.js), que incorpora Socket.io para mensajes y notificaciones en tiempo real y utiliza Cloudinary para el manejo de imágenes. Es una demostración práctica de cómo combinar tecnologías modernas para crear una aplicación full-stack con funcionalidades de red social, centrada en el aprendizaje y la mejora continua.
 
+![💿](https://github.com/user-attachments/assets/2bfa530b-e9b1-496a-9c95-2bcf37c38adf)
+
+
 ## Características Principales
 
 ### Autenticación y Gestión de Usuarios
