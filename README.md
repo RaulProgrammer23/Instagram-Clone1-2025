@@ -56,11 +56,15 @@ CLOUD_NAME= tu codigo de cloudinary
 # Prueba en local con usuarios ficticios:
 
 ![Screenshot_12](https://github.com/user-attachments/assets/87f2bc5b-74d6-47a3-8899-6accd5275129)
+<br/><br/>
 ----
 ![asdfasd](https://github.com/user-attachments/assets/db9482fc-ff41-4beb-9e2c-90595dbb8ebf)
 
+<br/><br/>
+----
 ![eee](https://github.com/user-attachments/assets/24e71033-59aa-4c11-9504-ea12b584120e)
-
+<br/><br/>
+----
 ![chat](https://github.com/user-attachments/assets/37334b57-1a0c-43f7-bab0-4648f041ab3c)
 
 
