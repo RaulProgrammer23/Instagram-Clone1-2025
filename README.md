@@ -40,6 +40,22 @@ Proyecto de investigación para desarrollar apps similares a las conocidas, con 
 ### Manejo de Imágenes
 - Cloudinary
 
+----
+## Guia de instalación.
+Crear un archivo .env en la carpeta raíz  junto a las carpetas de backend y frontend que tendremos descargadas:
+PORT=8000
+MONGO_URI=mongodb+srv://tu-correo..............:appName=Cluster0
+SECRET_KEY=tuClaveGeneradaAqui1234!
+API_KEY=
+API_SECRET=
+CLOUD_NAME= tu codigo de cloudinary 
+
+`Hacemos "npm install" tanto en el frontend como backend para instalar las dependencias`
+`Ahora npm run dev` y podremos entrar a localhost://tu_puerto
+----
+
+
+
 
 
 
