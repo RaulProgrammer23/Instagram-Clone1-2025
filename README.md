@@ -53,7 +53,7 @@ CLOUD_NAME= tu codigo de cloudinary
 `Hacemos "npm install" tanto en el frontend como backend para instalar las dependencias`
 `Ahora npm run dev` y podremos entrar a localhost://tu_puerto
 ----
-# Prueba en local con usuarios ficticios:
+# Prueba en local con usuarios ficticios
 
 ![Screenshot_12](https://github.com/user-attachments/assets/87f2bc5b-74d6-47a3-8899-6accd5275129)
 <br/><br/>
